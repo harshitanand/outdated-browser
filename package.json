@@ -5,12 +5,12 @@
   "main": "outdatedbrowser/outdatedbrowser.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/burocratik/outdated-browser.git"
+    "url": "git+https://github.com/harshitanand/outdated-browser.git"
   },
-  "author": "Bürocratik <hello@burocratik.com>",
+  "author": "Harshit Anand <harshitanand94@.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/burocratik/outdated-browser/issues"
+    "url": "https://github.com/harshitanand/outdated-browser/issues"
   },
   "homepage": "http://outdatedbrowser.com",
   "scripts": {
