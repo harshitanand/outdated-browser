@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/burocratik/outdated-browser/issues"
   },
-  "homepage": "http://outdatedbrowser.com"
+  "homepage": "http://outdatedbrowser.com",
+  "scripts": {
+    "test": "Outdated browser bower package replacement"
+  }
 }
